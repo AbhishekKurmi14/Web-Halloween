@@ -1,0 +1,360 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box
+}
+
+.bg_img {
+    background-image: url(../image/hallo-pattern-bg.png);
+    width: 100%;
+
+}
+
+.all_theme {
+    background-image: url(../image/halo-slider-main-bg.png);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.top_bar {
+    overflow: auto;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none
+}
+
+.bg_image_1 {
+    position: absolute;
+    top: -29px;
+    left: -30px
+}
+
+.logo_container {
+    width: 70%;
+    margin: auto;
+    overflow: auto
+}
+
+.center_img {
+    text-align: center;
+    padding: 0px 30px
+}
+
+.right_img {
+    position: absolute;
+    top: -68px;
+    right: -79px
+}
+
+.menu_bar {
+    font-size: 15px;
+    font-weight: 400;
+    font-family:
+        "Noto Sans", Arial, Tahoma, sans-serif;
+    margin: 20px auto;
+    text-align: center
+}
+
+.list {
+    margin: 0px
+}
+
+.list_1 {
+    color: #ffffff;
+    padding: 0px 20px;
+    display: inline-block
+}
+
+.list_2 {
+    color: #E4C3EE;
+    padding: 0px 20px;
+    display: inline-block
+}
+
+.list_3 {
+    color: #F6A626;
+    padding: 0px 20px;
+    display: inline-block
+}
+
+.date {
+    font-size: 20px;
+    font-family:
+        "Noto Sans", Arial, Tahoma, sans-serif;
+    color: #E6E6E6;
+    text-align: center;
+    margin: 50px 0px 10px
+}
+
+.title {
+    overflow: auto;
+}
+
+.title_2 {
+    margin: 0px;
+    font-size: 70px;
+    color: #f0d9b1;
+    font-family: "Permanent Marker";
+    text-align: center;
+    line-height: 77px;
+    ;
+    margin-bottom: 30px
+}
+
+.button {
+    background-color: #F6A626;
+    font-size: 19px;
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    width: 15%;
+    text-align: center;
+    border-radius: 25px;
+    line-height: 43px;
+    font-weight: 700;
+    box-shadow: (47, 19, 5, 0.35) 0px 4px 13px 6px;
+    margin: 25px auto 80px
+}
+
+.button_color {
+    color: #8b3400;
+    padding: 0px 27px;
+}
+
+.container {
+    margin: 30px auto 0;
+    width: 38%;
+    overflow: auto;
+}
+
+.image {
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    float: left
+}
+
+.paragraph {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: "Noto Sans";
+    float: left;
+    width: 80%;
+    margin: 12px 0px;
+    line-height: 23px
+}
+
+.para {
+    margin: 0px
+}
+
+.ghost-image {
+    padding: 0px 275px
+}
+
+.image_1 {
+    width: 240px;
+    height: 270px;
+}
+
+.bg_img_2 {
+    background-image: url(../image/hallo-pattern-bg.png);
+    width: 100%;
+}
+
+.about_section {
+    padding-top: 137px;
+    padding-bottom: 0px;
+}
+
+.paragraph_1 {
+    font-family: "Permanent Marker", Arial, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: center;
+    color: #f0d9b1;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.image_wrapper {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 46px;
+}
+
+.clearfix {
+    text-align: center;
+}
+
+.big {
+    font-family:
+        "Noto Sans", Arial, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #E6E6E6;
+    margin-bottom: 15px;
+}
+
+.text {
+    font-weight: 700;
+}
+
+.container_1 {
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+
+.container_2 {
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+}
+
+.line_image {
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.line_image_1 {
+    text-align: center;
+}
+
+.text_1 {
+    width: 55%;
+    margin: auto;
+    overflow: auto;
+}
+
+.text_2 {
+    width: 33.33%;
+    float: left;
+}
+
+.text_3 {
+    text-align: center;
+}
+
+.number {
+    font-size: 90px;
+    line-height: 90px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family:
+        "Noto Sans", Arial, Tahoma, sans-serif;
+}
+
+.text_4 {
+    text-align: center;
+    margin: 10px 0px 15px 0px;
+}
+
+.text_5 {
+    font-size: 18px;
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    font-weight: 400;
+    color: #F6A626;
+}
+
+.line_image_2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.new_img_1 {
+    height: 23%;
+}
+
+.new_img {
+    width: 100%;
+    background-color: #241c31;
+}
+
+.center_container {
+    background-color: #241c31;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.image_center {
+    position: absolute;
+}
+
+.title {
+    width: 65%;
+    margin: auto;
+    overflow: auto;
+}
+
+.title_3 {
+    overflow: auto;
+}
+
+.text_6 {
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 400;
+    font-family: "Permanent Marker", Arial, Tahoma, sans-serif;
+    color: #f0d9b1;
+}
+
+.title_4 {
+    width: 65%;
+    margin: 83px auto 140px auto;
+    overflow: auto;
+}
+
+.title_5 {
+    width: 50%;
+    float: left;
+    overflow: auto;
+
+}
+
+.title_6 {
+    width: 50%;
+    float: left;
+    padding: 55px 53px 20px;
+}
+
+.title_7 {}
+
+.text_8 {
+    font-size: 35px;
+    line-height: 42px;
+    font-weight: 400;
+    font-family: "Permanent Marker", Arial, Tahoma, sans-serif;
+    color: #f0d9b1;
+    margin: 0px 0px 15px;
+    line-height: 42px
+}
+
+.para {
+    font-size: 14px;
+    color: #E6E6E6;
+    margin: 32px 0px 15px;
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    line-height: 25px;
+    font-weight: 400
+}
+
+.title_9 {
+    width: 65%;
+    margin: 83px auto 0px auto;
+    overflow: auto;
+}
+.ima{
+    overflow: auto;
+}
+.ima_1{
+    height: 10%;
+}
