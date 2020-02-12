@@ -146,12 +146,12 @@ a {
     color: #ffffff;
     font-family: "Noto Sans";
     float: left;
-    width: 80%;
     margin: 12px 0px;
+    width: 80%;
     line-height: 23px
 }
 
-.para {
+.para_1 {
     margin: 0px
 }
 
@@ -354,9 +354,68 @@ a {
 }
 
 .ima {
-    overflow: auto;
+    height: 13%;
 }
 
 .ima_1 {
-    height: 10%;
+    overflow: auto;
+}
+
+.bg_img_5 {
+    background-image: url(../image/hallo-pattern-bg.png);
+    background-position: center;
+    padding: 75px 0px 75px;
+    overflow: auto;
+}
+
+.heading {}
+
+.text_10 {
+    font-family:
+        "Permanent Marker", Arial, Tahoma, sans-serif;
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 400;
+    text-align: center;
+    color: #f0d9b1;
+    margin-bottom: 110px;
+}
+
+.para_2 {
+    width: 65%;
+    margin: auto;
+    overflow: auto;
+}
+
+.text_11 {
+    width: 50%;
+    float: left;
+}
+
+.text_15 {
+    padding: 100px;
+}
+
+.text_12 {
+    width: 50%;
+    float: left;
+}
+
+.text_13 {
+    font-family: "Permanent Marker", Arial, Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 45px;
+    color: #f0d9b1;
+    padding: 15px 0px 0px 25px;
+    margin: 0px;
+}
+
+.text_14 {
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    font-size: 15px;
+    line-height: 31px;
+    font-weight: 400;
+    color: #E6E6E6;
+    padding: 15px 0px 15px 25px;
+    margin: 0px;
 }
