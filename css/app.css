@@ -364,7 +364,7 @@ a {
 .bg_img_5 {
     background-image: url(../image/hallo-pattern-bg.png);
     background-position: center;
-    padding: 75px 0px 75px;
+    padding: 75px 0px 33px;
     overflow: auto;
 }
 
@@ -393,7 +393,7 @@ a {
 }
 
 .text_15 {
-    padding: 100px;
+    padding: 110px;
 }
 
 .text_12 {
@@ -410,6 +410,11 @@ a {
     margin: 0px;
 }
 
+.text_17 {
+    padding: 15px 25px 0px 0px;
+    text-align: right;
+}
+
 .text_14 {
     font-family: "Noto Sans", Arial, Tahoma, sans-serif;
     font-size: 15px;
@@ -418,4 +423,157 @@ a {
     color: #E6E6E6;
     padding: 15px 0px 15px 25px;
     margin: 0px;
+}
+
+.text_16 {
+    padding: 15px 25px 0px 15px;
+}
+
+.button_1 {
+    border-radius: 5px;
+    font-size: 17px;
+    width: 181px;
+    margin: 75px auto 80px;
+}
+
+.button_color_1 {
+    padding: 7px 10px;
+    display: inline-block;
+}
+
+.bg_img_3 {
+    padding-top: 0px;
+    padding-bottom: 200px;
+    background-image: url(../image/hallo-bot-gradient.png);
+    background-position: center bottom;
+
+}
+
+.gallery_section {
+    background-image: url(../image/hallo-line-bg.png);
+    width: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+    padding: 90px 0px 35px 0px;
+    background-position: center top;
+    position: relative;
+}
+
+.main {
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+}
+
+.img_5 {
+    text-align: center;
+}
+
+.right_arrow {
+    position: absolute;
+    top: 51%;
+    left: 20%;
+}
+
+.left_arrow {
+    position: absolute;
+    top: 51%;
+    right: 20%;
+}
+
+.footer {
+    background-image: url(../image/hallo-footer-bg.png);
+    background-position: center;
+    padding-top: 10px;
+    background-position: center top;
+}
+
+.footer_1 {
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+}
+
+.heading_big {
+    font-family: "Permanent Marker", Arial, Tahoma, sans-serif;
+    font-size: 50px;
+    color: #f0d9b1;
+    line-height: 55px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px 0px 35px;
+}
+
+.para_text {
+    text-align: center;
+    padding: 0px 0px 50px 0px;
+}
+
+.paragraph_10 {
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #E6E6E6;
+}
+
+.form_1 {
+    width: 100%;
+}
+
+.form {
+    width: 55%;
+    margin: auto;
+    padding: 0px 0px 450px 0px;
+    overflow: auto;
+}
+
+.name {
+    width: 50%;
+    float: left;
+    padding: 5px;
+}
+
+.name_1 {
+    padding: 10px;
+    color: darkgrey;
+    margin: 0px;
+    background-color: #584b72;
+    font-size: 13px;
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+}
+
+.name_5 {
+    color: #8b3400;
+    background-color: #F6A626;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.name_2 {
+    width: 50%;
+    padding: 5px;
+    float: left;
+}
+
+.name_3 {
+    width: 100%;
+    padding: 5px;
+    float: left;
+}
+
+.name_4 {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 180px;
+}
+
+.footer_section_img_1 {
+    background-image: url(../image/eyes.gif);
+    background-color: #1a1425;
+    width: 100%;
+}
+
+.footer_section2_img {
+    padding: 20px 0px 50px 0px;
 }
