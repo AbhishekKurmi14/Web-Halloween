@@ -364,7 +364,7 @@ a {
 .bg_img_5 {
     background-image: url(../image/hallo-pattern-bg.png);
     background-position: center;
-    padding: 75px 0px 33px;
+    padding: 76px 0px 33px;
     overflow: auto;
 }
 
@@ -426,7 +426,7 @@ a {
 }
 
 .text_16 {
-    padding: 15px 25px 0px 15px;
+    padding: 15px 11px 0px 15px;
 }
 
 .button_1 {
@@ -565,15 +565,61 @@ a {
 .name_4 {
     padding-top: 10px;
     padding-left: 10px;
-    padding-bottom: 180px;
+    padding-bottom: 190px;
 }
 
 .footer_section_img_1 {
     background-image: url(../image/eyes.gif);
     background-color: #1a1425;
     width: 100%;
+    background-size: cover;
 }
 
 .footer_section2_img {
-    padding: 20px 0px 50px 0px;
+    padding: 50px 0px 50px 0px;
+}
+
+.center_img_1 {
+    margin: 0 auto 25px;
+}
+
+.last_container {
+    width: 68%;
+    margin: auto;
+    overflow: auto;
+}
+
+.pa {
+    overflow: auto;
+}
+
+.pa_1 {
+    font-family:
+        "Noto Sans", Arial, Tahoma, sans-serif;
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: center;
+    color: #CDCACA;
+    margin: 0 0 15px;
+}
+
+.last_container_2 {
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.last_container_1 {
+    font-family: "Noto Sans", Arial, Tahoma, sans-serif;
+    line-height: 25px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #CDCACA;
+    margin: 0;
+}
+
+.last_container_3 {
+    color: #F6A626;
+    text-decoration: none;
+    display: inline-block;
 }
