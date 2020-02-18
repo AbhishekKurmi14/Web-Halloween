@@ -388,7 +388,7 @@ a {
 }
 
 .text_11 {
-    width: 50%;
+    width: 49%;
     float: left;
 }
 
@@ -397,7 +397,7 @@ a {
 }
 
 .text_12 {
-    width: 50%;
+    width: 49%;
     float: left;
 }
 
@@ -621,4 +621,12 @@ a {
     color: #F6A626;
     text-decoration: none;
     display: inline-block;
+}
+
+.text_50 {
+    height: 211px;
+    margin: 0px;
+    width: 5px;
+    background-color: #F6A626;
+    float: left;
 }
