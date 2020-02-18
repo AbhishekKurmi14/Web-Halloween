@@ -146,7 +146,7 @@ a {
     color: #ffffff;
     font-family: "Noto Sans";
     float: left;
-    margin: 12px 0px;
+    padding: 10px;
     width: 80%;
     line-height: 23px
 }
